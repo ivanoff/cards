@@ -1,0 +1,17 @@
+{
+  "name": "cards",
+  "version": "1.0.1",
+  "description": "Four Player Card Game",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "md5": "^2.2.1"
+  }
+}
